@@ -154,7 +154,7 @@ Make sure you have installed:
 # 📸 Screenshots
 | Login | Dashboard | Products | Admin Movements | rapport |
 |---|---|---|---|---|
-| ![Login](./screenshots/docs/screenshots/Login.png) | ![Dashboard](./screenshots/docs/Dashboard.png) | ![Products](./screenshots/docs/Products.png) | ![Movements](./screenshots/docs/Movements.png) |![rapport](./screenshots/docs/rapport.png) |
+| ![Login](./docs/screenshots/Login.png) | ![Dashboard](./docs/screenshots/Dashboard.png) | ![Products](./docs/screenshots/Products.png) | ![Movements](./docs/screenshots/Movements.png) |![rapport](./docs/screenshots/rapport.png) |
 
 ---
 # 💡 Skills Demonstrated
