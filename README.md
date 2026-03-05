@@ -168,7 +168,7 @@ Make sure you have installed:
 
   ---
 
-  👥 Authors
+  👥 Author
   
   - [@malakCH2003](https://github.com/malakCH2003)
 
