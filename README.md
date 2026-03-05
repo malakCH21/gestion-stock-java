@@ -139,7 +139,7 @@ Make sure you have installed:
  Create a .env file based on .env.example.
  Example configuration:
     
-     ```env
+     ```
       DB_URL=jdbc:mysql://localhost:3306/stock_db
       DB_USER=root
       DB_PASS=yourpassword
@@ -148,7 +148,7 @@ Make sure you have installed:
  ### ▶️ Running the Application
  Run the main application class:
      
-      ```bash
+      ```
        Main.java
       ```
 ---
